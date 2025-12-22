@@ -1,0 +1,1 @@
+{"FEATURES": ["Year", "AHS_Weighted_Average_Percent", "MFN_Weighted_Average_Percent", "AHS_Duty_Free_Tariff_Lines_Share_Percent", "pv_rank", "va_rank", "Tariff_Gap", "Country_Growth_Percent", "Effective_Tariff", "Country_Name_encoded"], "TARGET_CLASS": "has_RCA", "TARGET_REG": "Log_Export"}
